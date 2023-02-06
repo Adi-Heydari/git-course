@@ -1,4 +1,4 @@
 const App = ()=>{
-    return()
+    return("hi")
 }
 export default App;
